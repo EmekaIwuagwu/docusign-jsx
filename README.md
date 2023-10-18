@@ -50,3 +50,10 @@ class SignatureComponent extends React.Component {
 export default SignatureComponent;
 
 ```
+
+## Additional Notes.
+
+1.) Add a Content control to your Microsoft word , change the name to "Signature"
+2.) npm install the library and the dependencies that come with it to your React application
+3.) Integrate the possible functions to your code (buttons, events etc)
+4.) Enjoy!!!!
